@@ -1,24 +1,15 @@
 
-字节跳动招聘中，简历可发 liaoxiaojuan@bytedance.com
+
 
 -------
 
 ### Hi guys 👋
 
-- 🌱 I’m focus on data visualization and data analysis
-- 📫 How to reach me: visiky@qq.com
-- 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
-- 🐦 yuque(语雀)：https://www.yuque.com/kasmine
-- 👾 github：https://github.com/visiky
 
-2017.06~2023
-
-- 🔭 就职于蚂蚁集团，主要从事 BI 产品以及数据产品领域
-- 🎩 蚂蚁数据可视化 AntV 团队主要成员
 
 ### Others
 
-- 😉 [visiky's resume](https://visiky.github.io/resume/?user=visiky), an online resume.
+- 😉 [ggboooy's resume](https://visiky.github.io/resume/?user=ggboooy), an online resume.
 
 -----
 
